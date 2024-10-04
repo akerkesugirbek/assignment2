@@ -1,7 +1,6 @@
 import java.util.ArrayList;
 import java.util.List;
 
-
 class Menu implements MenuComponent {
     private String name;
     private List<MenuComponent> components = new ArrayList<>();
